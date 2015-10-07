@@ -1,0 +1,35 @@
+Source: xembed-sni-proxy
+Section: kde
+Priority: optional
+Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
+Uploaders: Boris Pek <tehnick@debian.org>
+Build-Depends: cmake,
+               debhelper (>= 9),
+               extra-cmake-modules,
+               libkf5windowsystem-dev,
+               libqt5x11extras5-dev,
+               libxcb-composite0-dev,
+               libxcb-damage0-dev,
+               libxcb-image0-dev,
+               libxcb-randr0-dev,
+               libxcb-shm0-dev,
+               libxcb-util0-dev,
+               libxcb-xfixes0-dev,
+               libxcb1-dev,
+               pkg-kde-tools,
+               qtbase5-dev
+Homepage: https://github.com/davidedmundson/xembed-sni-proxy
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/xembed-sni-proxy.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/xembed-sni-proxy.git
+Standards-Version: 3.9.6
+
+Package: plasma-systray-legacy
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Provides: xembed-sni-proxy
+Suggests: sni-qt
+Description: XEmbed SNI Proxy
+ This package contains special proxy which converts XEmbed system tray icons to
+ SNI icons. It allows one to use applications which supports only legacy system
+ tray icons in modern desktop environments (i.e KDE Plasma 5, GNOME Shell, etc.)
+ which support only StatusNotifierItem specification.
