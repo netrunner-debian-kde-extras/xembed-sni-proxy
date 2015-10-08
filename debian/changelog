@@ -1,5 +1,5 @@
-xembed-sni-proxy (0~git20151005-77d78c3-1) UNRELEASED; urgency=medium
+xembed-sni-proxy (0~git20151005-77d78c3-1) experimental; urgency=medium
 
   * Initial release.  (Closes: #801264)
 
- -- Boris Pek <tehnick@debian.org>  Thu, 08 Oct 2015 00:24:35 +0300
+ -- Boris Pek <tehnick@debian.org>  Thu, 08 Oct 2015 03:15:36 +0300
