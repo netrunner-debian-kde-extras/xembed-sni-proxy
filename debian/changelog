@@ -1,3 +1,9 @@
+xembed-sni-proxy (0~git20151005-77d78c3-2ppa1~wily1) wily; urgency=medium
+
+  * Rebuild for Launchpad.
+
+ -- Boris Pek <tehnick@debian.org>  Sat, 17 Oct 2015 00:43:36 +0300
+
 xembed-sni-proxy (0~git20151005-77d78c3-2) unstable; urgency=medium
 
   * Move package to unstable: no changes required.
