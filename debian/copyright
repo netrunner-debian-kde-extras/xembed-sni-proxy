@@ -1,8 +1,8 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Debianized-By: Boris Pek <tehnick-8@mail.ru>
 Debianized-Date: Thu, 08 Oct 2015 00:24:35 +0300
-Upstream-Name: BOSixNet
-Upstream-Contact: Boris Pek <tehnick-8@mail.ru>
+Upstream-Name: XEmbed SNI Proxy
+Upstream-Contact: David Edmundson <davidedmundson@kde.org>
 Source: https://github.com/davidedmundson/xembed-sni-proxy
 
 Files: *
