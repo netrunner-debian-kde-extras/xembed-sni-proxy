@@ -1,3 +1,11 @@
+xembed-sni-proxy (0~git20151027-b7c1f8d-1) unstable; urgency=medium
+
+  * New Git snapshot.
+  * Update description of plasma-systray-legacy package.
+  * Move package to unstable: no changes required.
+
+ -- Boris Pek <tehnick@debian.org>  Wed, 28 Oct 2015 01:10:01 +0300
+
 xembed-sni-proxy (0~git20151022-5157e6c-1) experimental; urgency=medium
 
   * New Git snapshot.
