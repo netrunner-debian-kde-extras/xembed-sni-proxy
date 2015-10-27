@@ -31,5 +31,5 @@ Suggests: sni-qt
 Description: XEmbed SNI Proxy
  This package contains special proxy which converts XEmbed system tray icons to
  SNI icons. It allows one to use applications which supports only legacy system
- tray icons in modern desktop environments (i.e KDE Plasma 5, GNOME Shell, etc.)
+ tray icons in modern desktop environments (i.e KDE Plasma 5, Unity, etc.)
  which support only StatusNotifierItem specification.
