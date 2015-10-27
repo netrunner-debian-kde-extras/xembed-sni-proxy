@@ -1,3 +1,11 @@
+xembed-sni-proxy (0~git20151027-b7c1f8d-0ppa1~xenial1) xenial; urgency=medium
+
+  * New Git snapshot.
+  * Add patch fix-build-in-ubuntu-15.04.
+  * Update description of plasma-systray-legacy package.
+
+ -- Boris Pek <tehnick@debian.org>  Wed, 28 Oct 2015 00:21:39 +0300
+
 xembed-sni-proxy (0~git20151027-8de0346-0ppa1~wily1) wily; urgency=medium
 
   * New Git snapshot.
