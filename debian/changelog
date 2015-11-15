@@ -1,3 +1,9 @@
+xembed-sni-proxy (0~git20151104-ded1538-1ppa1~xenial1) xenial; urgency=medium
+
+  * Rebuild for Launchpad.
+
+ -- Boris Pek <tehnick@debian.org>  Mon, 16 Nov 2015 02:47:32 +0300
+
 xembed-sni-proxy (0~git20151104-ded1538-1) unstable; urgency=medium
 
   * New Git snapshot.
