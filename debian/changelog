@@ -1,28 +1,25 @@
-xembed-sni-proxy (0~git20151027-b7c1f8d-0ppa1~xenial1) xenial; urgency=medium
+xembed-sni-proxy (0~git20151104-ded1538-1) unstable; urgency=medium
 
   * New Git snapshot.
-  * Add patch fix-build-in-ubuntu-15.04.
+  * Fixed in upstream: systray icons of WINE applications (and some other
+    programs) are opaque just after launching of applications.
+    (Closes: #802228)
+
+ -- Boris Pek <tehnick@debian.org>  Mon, 16 Nov 2015 02:19:41 +0300
+
+xembed-sni-proxy (0~git20151027-b7c1f8d-1) unstable; urgency=medium
+
+  * New Git snapshot.
   * Update description of plasma-systray-legacy package.
+  * Move package to unstable: no changes required.
 
- -- Boris Pek <tehnick@debian.org>  Wed, 28 Oct 2015 00:21:39 +0300
+ -- Boris Pek <tehnick@debian.org>  Wed, 28 Oct 2015 01:10:01 +0300
 
-xembed-sni-proxy (0~git20151027-8de0346-0ppa1~wily1) wily; urgency=medium
-
-  * New Git snapshot.
-
- -- Boris Pek <tehnick@debian.org>  Tue, 27 Oct 2015 17:30:55 +0300
-
-xembed-sni-proxy (0~git20151022-5157e6c-0ppa1~wily1) wily; urgency=medium
+xembed-sni-proxy (0~git20151022-5157e6c-1) experimental; urgency=medium
 
   * New Git snapshot.
 
- -- Boris Pek <tehnick@debian.org>  Thu, 22 Oct 2015 01:21:40 +0300
-
-xembed-sni-proxy (0~git20151005-77d78c3-2ppa1~wily1) wily; urgency=medium
-
-  * Rebuild for Launchpad.
-
- -- Boris Pek <tehnick@debian.org>  Sat, 17 Oct 2015 00:43:36 +0300
+ -- Boris Pek <tehnick@debian.org>  Thu, 22 Oct 2015 01:03:10 +0300
 
 xembed-sni-proxy (0~git20151005-77d78c3-2) unstable; urgency=medium
 
