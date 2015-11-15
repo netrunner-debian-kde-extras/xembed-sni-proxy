@@ -1,3 +1,12 @@
+xembed-sni-proxy (0~git20151104-ded1538-1) unstable; urgency=medium
+
+  * New Git snapshot.
+  * Fixed in upstream: systray icons of WINE applications (and some other
+    programs) are opaque just after launching of applications.
+    (Closes: #802228)
+
+ -- Boris Pek <tehnick@debian.org>  Mon, 16 Nov 2015 02:19:41 +0300
+
 xembed-sni-proxy (0~git20151027-b7c1f8d-1) unstable; urgency=medium
 
   * New Git snapshot.
