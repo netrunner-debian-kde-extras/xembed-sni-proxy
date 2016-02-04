@@ -1,3 +1,10 @@
+xembed-sni-proxy (0~git20151104-ded1538-2) unstable; urgency=medium
+
+  * Add mitigate-failed-icon-grabbing.patch.
+  * Fix lintian notes vcs-field-uses-insecure-uri.
+
+ -- Boris Pek <tehnick@debian.org>  Thu, 04 Feb 2016 21:15:44 +0300
+
 xembed-sni-proxy (0~git20151104-ded1538-1) unstable; urgency=medium
 
   * New Git snapshot.
